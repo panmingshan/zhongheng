@@ -1,0 +1,72 @@
+<html>
+<head>
+	<style>
+	* {
+		margin: 0;
+		padding: 0;
+	}
+	p {
+		padding: 0;
+		margin: 2px;
+		font-weight: bold;
+	}
+	.head {
+		border-bottom: solid 1px;
+		text-indent: 10px;
+	}
+	.title {
+		line-height: 70px;
+		font-size: 30px;
+	}
+	.path-item {
+		margin: 0 -5px;
+		padding: 0 5px;
+	}
+	.path-item:hover {
+		background-color: orange;
+	}
+	.list {
+		padding: 20px 10px;
+	}
+	</style>
+</head>
+<body>
+<div class="head">
+	<p class="title">咪咕-SERVER 本地服务器</p>
+	<p>
+		<a class="path-item" href="/"><%= host %></a>
+		<%
+			var getHref = function(i) {
+				var href = '';
+				for (var j = 0; j < i; j++) {
+					href += '../';
+				}
+				return href;
+			}
+			var p = path.split('/');
+			for (var i = 0; i < p.length; i++) {
+		%>
+				<a class="path-item" href="<%= getHref(p.length - i - 1) %>"><%= p[i] %></a>
+				<span class="c">/</span>
+		<%
+			}
+		%>
+	</p>
+</div>
+
+<div class="list">
+	<p>
+		<a href="../">../</a>
+	</p>
+	<%
+		for (var i = 0; i < fileList.length; i++) {
+	%>
+	<p>
+		<a href="<%= fileList[i] %>"><%= fileList[i] %></a>
+	</p>
+	<%
+		}
+	%>
+</div>
+</body>
+</html>
