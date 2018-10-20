@@ -1,6 +1,6 @@
 #!/bin/sh
 echo
-echo ::咪咕视频前端自动化构建搭建工具 v1.0.0
+echo ::前端自动化构建搭建工具 v1.0.0
 temp=./temp
 while :
 do

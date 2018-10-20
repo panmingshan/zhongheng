@@ -27,7 +27,7 @@ mgs.set('views', path.join(__dirname, 'views'));
 mgs.set('view engine', 'ejs');
 
 let args = process.argv.splice(2);
-let port = args[0] || 80;
+let port = args[0] || 8888;
 let ip_address = args[1] || '127.0.0.1';
 let project = args[2];
 
