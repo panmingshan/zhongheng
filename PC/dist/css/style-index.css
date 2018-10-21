@@ -1,7 +1,7 @@
 /**
  * ...
  * @author minliang1112
- * Sun Oct 21 2018 09:56:48 GMT+0800 (GMT+08:00)
+ * Sun Oct 21 2018 09:28:28 GMT+0800 (GMT+08:00)
  */
 
 * {
@@ -725,7 +725,8 @@ body {
 .contentWrap .content .left dd[data-v-1f70cd31] {
   cursor: pointer;
 }
-.contentWrap .content .left dd[data-v-1f70cd31]:hover {
+.contentWrap .content .left dd[data-v-1f70cd31]:hover,
+.contentWrap .content .left dd.active[data-v-1f70cd31] {
   color: #39A1EA;
 }
 .contentWrap .content .right[data-v-1f70cd31] {

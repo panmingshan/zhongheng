@@ -136,7 +136,7 @@ pm.then(() => {
         }
     });
     mgs.listen(port, ip_address, () => {
-        console.log('咪咕-SERVER 服务启动成功，' + port + '端口！！');
+        console.log('SERVER 服务启动成功，' + port + '端口！！');
     });
 }).catch(() => {
     console.log('server.json配置文件未找到，咪咕-SERVER 启动失败！！\r\n');

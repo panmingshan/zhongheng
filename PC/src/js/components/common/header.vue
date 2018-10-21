@@ -17,7 +17,7 @@
                 </li>
                 <li>
                     <router-link to="/aboutUs" tag="li" exact-active-class = "headerBarActive">
-                        联系我们
+                        关于我们
                     </router-link>
                 </li>
                 <li>
