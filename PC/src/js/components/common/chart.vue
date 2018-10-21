@@ -24,18 +24,18 @@
             </div>
             <div class="content">
                 <ul>
-                    <li class="telWrap">
-                        <i class="tel">
-                        </i>
-                        <div>
-                            <p>
-                                财富热线
-                            </p>
-                            <p>
-                                0760-22517081
-                            </p>
-                        </div>
-                    </li>
+                    <!--<li class="telWrap">-->
+                        <!--<i class="tel">-->
+                        <!--</i>-->
+                        <!--<div>-->
+                            <!--<p>-->
+                                <!--财富热线-->
+                            <!--</p>-->
+                            <!--<p>-->
+                                <!--0760-22517081-->
+                            <!--</p>-->
+                        <!--</div>-->
+                    <!--</li>-->
                     <li class="qqWrap">
                         <i class="qq">
                         </i>
@@ -44,8 +44,8 @@
                                 在线客服
                             </p>
                             <p>
-                                <span>大勇</span>
-                                <a href="tencent://message/?uin=1326082784&Site=sc.chinaz.com&Menu=yes">
+                                <span>乐乐</span>
+                                <a href="tencent://message/?uin=1610988580&Site=sc.chinaz.com&Menu=yes">
                                     <i class="qqchart"></i>
                                 </a>
                             </p>
@@ -57,7 +57,7 @@
                                 服务时间：
                             </p>
                             <p>
-                                周一至周六 9:00 - 18:00
+                                周一至周五
                             </p>
                         </div>
                     </li>

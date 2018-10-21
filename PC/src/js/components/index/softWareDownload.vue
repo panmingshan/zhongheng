@@ -19,9 +19,6 @@
                         </ul>
                     </div>
                 </div>
-                <div class="fg_dh">
-                    <span>咨询电话</span> <span>0760-22517081</span>
-                </div>
             </div>
         </div>
         <div class="downlist">
@@ -63,23 +60,6 @@
                 .qw_2{padding-left:40px;font-size:33px;font-weight:bold;color:#EA3939;margin-top: 7px;}
                 .qw_2 span{color:black;padding-left:20px;}
                 .qw_3{color:white;padding-left:50px;font-size:13px;margin-top: 6px;}
-                .fg_dh{
-                    font-size: 0;
-                    background:url("../../../assets/softDownloadBg_1.png") no-repeat;
-                    height:32px;width:212px;
-                    margin:0 auto;
-                    margin-top:50px;color:white;
-                    font-size:14px;
-                    padding-top:6px;
-                    padding-left:20px;
-                    &>span{
-                        display: inline-block;
-                        font-size: 13px;
-                        &:last-child{
-                            margin-left: 31px;
-                        }
-                    }
-                }
             }
         }
         .logo{
