@@ -3,6 +3,6 @@ node_modules/
 .jsbuild/
 .happypack/
 .cache-loader/
-package-lock.json
 prd/
+manifest.json
 version.h
