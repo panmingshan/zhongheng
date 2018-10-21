@@ -100,32 +100,32 @@
                 infoList : [
                     {
                         title : "公司简介",
-                        imgUrl : "https://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/%E5%85%AC%E5%8F%B8%E6%A6%82%E5%86%B5.png?Expires=1540129410&OSSAccessKeyId=TMP.AQGVn-sfrwHwk5_OSgVJoCPzN-AJcRwimGmdxx4N01ZgKqm3BZErlZ9obyT3ADAtAhRfEJwLMsc9f5NNwI0058n8orxEVAIVANciNXM9tA8HLCbCCGS8RBqR-FnD&Signature=Wweuw8VF2EOVD2L2qmAoHQ0Gc2c%3D",
+                        imgUrl : "https://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/%E5%85%AC%E5%8F%B8%E6%A6%82%E5%86%B5.png",
                         time : "2018-10-20"
                     },
                     {
                         title : "公司宗旨",
-                        imgUrl : "https://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/%E5%85%AC%E5%8F%B8%E5%AE%97%E6%97%A8.png?Expires=1540129441&OSSAccessKeyId=TMP.AQGVn-sfrwHwk5_OSgVJoCPzN-AJcRwimGmdxx4N01ZgKqm3BZErlZ9obyT3ADAtAhRfEJwLMsc9f5NNwI0058n8orxEVAIVANciNXM9tA8HLCbCCGS8RBqR-FnD&Signature=jDVX0nSyq6JyMYw4%2BD2rR1PPyCI%3D",
+                        imgUrl : "https://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/%E5%85%AC%E5%8F%B8%E5%AE%97%E6%97%A8.png",
                         time : "2018-10-20"
                     },
                     {
                         title : "企业文化",
-                        imgUrl : "https://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/%E4%BC%81%E4%B8%9A%E6%96%87%E5%8C%96.png?Expires=1540129471&OSSAccessKeyId=TMP.AQGVn-sfrwHwk5_OSgVJoCPzN-AJcRwimGmdxx4N01ZgKqm3BZErlZ9obyT3ADAtAhRfEJwLMsc9f5NNwI0058n8orxEVAIVANciNXM9tA8HLCbCCGS8RBqR-FnD&Signature=qUH%2FjGL8HxNStey7qJt%2BZVQMl1E%3D",
+                        imgUrl : "https://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/%E4%BC%81%E4%B8%9A%E6%96%87%E5%8C%96.png",
                         time : "2018-10-20"
                     },
                     {
                         title : "产品特色",
-                        imgUrl : "https://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/%E4%BA%A7%E5%93%81%E7%89%B9%E8%89%B2.png?Expires=1540129507&OSSAccessKeyId=TMP.AQGVn-sfrwHwk5_OSgVJoCPzN-AJcRwimGmdxx4N01ZgKqm3BZErlZ9obyT3ADAtAhRfEJwLMsc9f5NNwI0058n8orxEVAIVANciNXM9tA8HLCbCCGS8RBqR-FnD&Signature=S1fYlzK2Ma3uEL59f1DXi7gqy2g%3D",
+                        imgUrl : "https://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/%E4%BA%A7%E5%93%81%E7%89%B9%E8%89%B2.png",
                         time : "2018-10-20"
                     },
                     {
                         title : "团队介绍",
-                        imgUrl : "https://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/%E5%9B%A2%E9%98%9F%E4%BB%8B%E7%BB%8D.png?Expires=1540129522&OSSAccessKeyId=TMP.AQGVn-sfrwHwk5_OSgVJoCPzN-AJcRwimGmdxx4N01ZgKqm3BZErlZ9obyT3ADAtAhRfEJwLMsc9f5NNwI0058n8orxEVAIVANciNXM9tA8HLCbCCGS8RBqR-FnD&Signature=gFYMumPsWOSTlp6DMmtF%2Fg3aO1Q%3D",
+                        imgUrl : "https://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/%E5%9B%A2%E9%98%9F%E4%BB%8B%E7%BB%8D.png",
                         time : "2018-10-20"
                     },
                     {
                         title : "服务与运营",
-                        imgUrl : "https://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/%E6%9C%8D%E5%8A%A1%E4%B8%8E%E8%BF%90%E8%90%A5.png?Expires=1540129546&OSSAccessKeyId=TMP.AQGVn-sfrwHwk5_OSgVJoCPzN-AJcRwimGmdxx4N01ZgKqm3BZErlZ9obyT3ADAtAhRfEJwLMsc9f5NNwI0058n8orxEVAIVANciNXM9tA8HLCbCCGS8RBqR-FnD&Signature=si3f3zcui7MT1Kqi46O%2Fsv6CtXM%3D",
+                        imgUrl : "https://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/%E6%9C%8D%E5%8A%A1%E4%B8%8E%E8%BF%90%E8%90%A5.png",
                         time : "2018-10-20"
                     },
                 ]
