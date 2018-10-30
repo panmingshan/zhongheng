@@ -152,26 +152,26 @@
         data (){
             return {
                 downList : [
-                    {
-                        info : "中恒50ETF基础知识.doc",
-                        url : "https://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/%E4%B8%AD%E6%81%9250ETF%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.doc",
-                        class : "word"
-                    },
-                    {
-                        info : "中恒50使用说明（标准版）.doc",
-                        url : "https://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/%E4%B8%AD%E6%81%9250%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%EF%BC%88%E6%A0%87%E5%87%86%E7%89%88%EF%BC%89.doc",
-                        class : "word"
-                    },
+//                    {
+//                        info : "中恒50ETF基础知识.doc",
+//                        url : "https://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/%E4%B8%AD%E6%81%9250ETF%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.doc",
+//                        class : "word"
+//                    },
+//                    {
+//                        info : "中恒50使用说明（标准版）.doc",
+//                        url : "https://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/%E4%B8%AD%E6%81%9250%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%EF%BC%88%E6%A0%87%E5%87%86%E7%89%88%EF%BC%89.doc",
+//                        class : "word"
+//                    },
                     {
                         info : "支付宝支付.pptx",
                         url : "https://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%AF%E4%BB%98.pptx",
                         class : "ppt"
                     },
-                    {
-                        info : "资管说明书.doc",
-                        url : "https://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/%E8%B5%84%E7%AE%A1%E8%AF%B4%E6%98%8E%E4%B9%A6.doc",
-                        class : "word"
-                    },
+//                    {
+//                        info : "资管说明书.doc",
+//                        url : "https://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/%E8%B5%84%E7%AE%A1%E8%AF%B4%E6%98%8E%E4%B9%A6.doc",
+//                        class : "word"
+//                    },
                 ]
             }
         },
