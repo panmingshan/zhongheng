@@ -81,14 +81,14 @@
                     padding: 25px 10px;
                     float: left;
                     width: 23%;
-                    margin-right: 2.5%;
+                    margin-right: 15%;
                     box-shadow: 1px 1px 8px 3px #eee;
                     transition: all 0.3s;
                     &:hover{
                         /*box-shadow: 1px 1px 8px 3px #EA6B60;*/
                         box-shadow: 1px 1px 8px 3px #ccc;
                     }
-                    &:nth-child(4n){
+                    &:nth-child(3n){
                         margin-right: 0;
                     }
                     border: 1px solid #ccc;
@@ -114,11 +114,11 @@
         data (){
             return {
                 downList : [
-                    {
-                        info : "中恒期权MINI版安装包",
-                        url : "http://47.93.42.162:8082/中恒期权MINI版安装包.exe",
-                        class : "logo"
-                    },
+//                    {
+//                        info : "中恒期权MINI版安装包",
+//                        url : "http://47.93.42.162:8082/中恒期权MINI版安装包.exe",
+//                        class : "logo"
+//                    },
                     {
                         info : "中恒期权标准版安装包",
                         url : "http://47.93.42.162:8082/中恒期权标准版安装包.exe",
