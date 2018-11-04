@@ -20,7 +20,7 @@
                             <span class="two"></span>
                             <div class="rightWrap">
                                 <div>超低费用</div>
-                                <p>最低3000起投，最高10倍杠杆</p>
+                                <p></p>
                             </div>
                         </div>
                     </li>
