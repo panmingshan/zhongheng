@@ -91,6 +91,9 @@
         .ppt{
             background-image: url("../../../assets/pptx.jpg");
         }
+        .exe{
+            background-image: url("../../../assets/exe.png");
+        }
         .downlist{
             width: @width;
             margin: auto;
@@ -162,11 +165,16 @@
 //                        url : "https://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/%E4%B8%AD%E6%81%9250%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%EF%BC%88%E6%A0%87%E5%87%86%E7%89%88%EF%BC%89.doc",
 //                        class : "word"
 //                    },
-                    {
+                      {
                         info : "支付宝支付.pptx",
                         url : "https://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%AF%E4%BB%98.pptx",
                         class : "ppt"
-                    },
+                      },
+                      {
+                        info : "中恒50模拟客户端安装包.exe",
+                        url : "http://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/%E4%B8%AD%E6%81%9250%E6%A8%A1%E6%8B%9F%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%AE%89%E8%A3%85%E5%8C%85.exe",
+                        class : "exe"
+                      },
 //                    {
 //                        info : "资管说明书.doc",
 //                        url : "https://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/%E8%B5%84%E7%AE%A1%E8%AF%B4%E6%98%8E%E4%B9%A6.doc",

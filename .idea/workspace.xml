@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79f173e3-584b-497b-a6e9-f6189f49ad2a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PC/src/assets/exe.png" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/PC/dist/assets/img/app-01.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/PC/dist/assets/img/ios-01.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/PC/dist/assets/img/logo.png" afterPath="" />
@@ -11,21 +12,27 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/PC/dist/assets/img/test1.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/PC/dist/assets/img/test2.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/PC/dist/assets/img/word.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/prd/v_20181021205122_a0c244da/dist/assets/img/app-01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/prd/v_20181021205122_a0c244da/dist/assets/img/ios-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/prd/v_20181021205122_a0c244da/dist/assets/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/prd/v_20181021205122_a0c244da/dist/assets/img/logo_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/prd/v_20181021205122_a0c244da/dist/assets/img/pptx.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/prd/v_20181021205122_a0c244da/dist/assets/img/slogan.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/prd/v_20181021205122_a0c244da/dist/assets/img/test1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/prd/v_20181021205122_a0c244da/dist/assets/img/test2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/prd/v_20181021205122_a0c244da/dist/assets/img/word.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/prd/v_20181021205122_a0c244da/dist/css/style-index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/prd/v_20181021205122_a0c244da/dist/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/prd/v_20181021205122_a0c244da/dist/mgvendor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/dist/css/style-index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/dist/css/style-index.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/dist/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/dist/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/dist/index.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/dist/mgvendor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/prd/v_20181021230152_1d7aea95/dist/assets/img/app-01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/prd/v_20181021230152_1d7aea95/dist/assets/img/ios-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/prd/v_20181021230152_1d7aea95/dist/assets/img/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/prd/v_20181021230152_1d7aea95/dist/assets/img/logo_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/prd/v_20181021230152_1d7aea95/dist/assets/img/pptx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/prd/v_20181021230152_1d7aea95/dist/assets/img/slogan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/prd/v_20181021230152_1d7aea95/dist/assets/img/test1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/prd/v_20181021230152_1d7aea95/dist/assets/img/test2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/prd/v_20181021230152_1d7aea95/dist/assets/img/word.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/prd/v_20181021230152_1d7aea95/dist/css/style-index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/prd/v_20181021230152_1d7aea95/dist/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PC/prd/v_20181021230152_1d7aea95/dist/mgvendor.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PC/src/assets/ios-01.jpg" afterPath="$PROJECT_DIR$/PC/src/assets/ios-01.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PC/dist/index.js" afterPath="$PROJECT_DIR$/PC/dist/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PC/dist/index.js.map" afterPath="$PROJECT_DIR$/PC/dist/index.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PC/.idea/workspace.xml" afterPath="$PROJECT_DIR$/PC/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PC/prd/index.html" afterPath="$PROJECT_DIR$/PC/prd/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PC/src/js/components/index/materialDown.vue" afterPath="$PROJECT_DIR$/PC/src/js/components/index/materialDown.vue" />
     </list>
@@ -42,61 +49,24 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="header.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PC/src/js/components/common/header.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
-              <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="materialDown.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PC/src/js/components/index/materialDown.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="164" column="21" lean-forward="false" selection-start-line="164" selection-start-column="21" selection-end-line="164" selection-end-column="21" />
-              <folding />
+            <state relative-caret-position="295">
+              <caret line="170" column="34" lean-forward="true" selection-start-line="170" selection-start-column="34" selection-end-line="170" selection-end-column="34" />
+              <folding>
+                <element signature="n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="connect.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PC/src/js/components/index/connect.vue">
+      <file leaf-file-name="server.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/server_build/server.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3930">
-              <caret line="131" column="13" lean-forward="false" selection-start-line="131" selection-start-column="13" selection-end-line="131" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mgbuild.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PC/mgbuild.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PC/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="softWareDownload.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PC/src/js/components/index/softWareDownload.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1920">
-              <caret line="64" column="14" lean-forward="false" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
+            <state relative-caret-position="390">
+              <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -114,10 +84,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>content</find>
-      <find>0.2s</find>
-      <find>headerActive</find>
-      <find>side</find>
       <find>div</find>
       <find>telWrap</find>
       <find>50%</find>
@@ -144,6 +110,10 @@
       <find>fg_dh</find>
       <find>active</find>
       <find>left</find>
+      <find>downList</find>
+      <find>pp</find>
+      <find>exe</find>
+      <find>ppt</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -170,13 +140,13 @@
         <option value="$PROJECT_DIR$/PC/dll/webpack.dll.config.babel.js" />
         <option value="$PROJECT_DIR$/PC/webpack.config.base.js" />
         <option value="$PROJECT_DIR$/PC/src/js/router/indexRouter.js" />
-        <option value="$PROJECT_DIR$/PC/src/js/components/index/softWareDownload.vue" />
         <option value="$PROJECT_DIR$/PC/src/js/components/common/chart.vue" />
         <option value="$PROJECT_DIR$/PC/src/js/components/index/index.vue" />
         <option value="$PROJECT_DIR$/PC/src/js/components/common/footer.vue" />
         <option value="$PROJECT_DIR$/PC/src/js/components/common/header.vue" />
         <option value="$PROJECT_DIR$/PC/.gitignore" />
         <option value="$PROJECT_DIR$/PC/src/js/components/index/connect.vue" />
+        <option value="$PROJECT_DIR$/PC/src/js/components/index/softWareDownload.vue" />
         <option value="$PROJECT_DIR$/PC/src/js/components/index/materialDown.vue" />
       </list>
     </option>
@@ -260,102 +230,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="中恒" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="中恒" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="中恒" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="中恒" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="中恒" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="中恒" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="index" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="中恒" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="中恒" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prd" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -489,11 +363,15 @@
       <workItem from="1540114711030" duration="6876000" />
       <workItem from="1540134071990" duration="155000" />
       <workItem from="1540397397861" duration="14000" />
+      <workItem from="1540872258845" duration="490000" />
+      <workItem from="1541303562463" duration="27000" />
+      <workItem from="1543743326164" duration="1839000" />
+      <workItem from="1543763546753" duration="25000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47101000" />
+    <option name="totallyTimeSpent" value="49482000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -506,8 +384,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -554,7 +433,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="16" column="32" lean-forward="false" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-          <folding />
+          <folding>
+            <element signature="n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -577,7 +459,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -633,13 +514,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PC/template/template.js" />
-    <entry file="file://$PROJECT_DIR$/tools/server_build/server.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tools/server_build/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
@@ -706,20 +580,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PC/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PC/dist/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="21" column="49" lean-forward="true" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/PC/dist/index.html" />
+    <entry file="file://$PROJECT_DIR$/PC/dist/index.js" />
     <entry file="file://$PROJECT_DIR$/PC/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="492">
@@ -811,14 +673,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PC/src/js/components/common/header.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PC/prd/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -830,7 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -838,7 +691,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -846,23 +698,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3930">
           <caret line="131" column="13" lean-forward="false" selection-start-line="131" selection-start-column="13" selection-end-line="131" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PC/src/js/components/common/header.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="797">
+          <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/server_build/server.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PC/src/js/components/index/softWareDownload.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1920">
-          <caret line="64" column="14" lean-forward="false" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
+        <state relative-caret-position="455">
+          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PC/src/js/components/index/materialDown.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="164" column="21" lean-forward="false" selection-start-line="164" selection-start-column="21" selection-end-line="164" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="295">
+          <caret line="170" column="34" lean-forward="true" selection-start-line="170" selection-start-column="34" selection-end-line="170" selection-end-column="34" />
+          <folding>
+            <element signature="n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
