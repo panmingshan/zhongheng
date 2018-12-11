@@ -42,7 +42,7 @@
         .logo{
             float: left;
             width : 300px;
-            background: url("../../../assets/header/logo.png") no-repeat center;
+            background: url("../../../assets/header/logo.jpg") no-repeat center;
             background-size: contain;
             height: 80px;
         }

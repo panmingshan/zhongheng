@@ -6,13 +6,13 @@
                     <div class="qw">
                         <ul>
                             <li class="qw_1">
-                                中恒期权 BEST&amp;INVEST
+                                中恒50 BEST&amp;INVEST
                             </li>
                             <li class="qw_2">
                                 中 流 砥 柱 <span>日 升 月 恒</span>
                             </li>
                             <li class="qw_3">
-                                中恒期权管理   &nbsp;&nbsp;基金  &nbsp;&nbsp;股票  &nbsp;&nbsp;股权  &nbsp;&nbsp;咨询  &nbsp;&nbsp;策划
+                                中恒50管理   &nbsp;&nbsp;基金  &nbsp;&nbsp;股票  &nbsp;&nbsp;股权  &nbsp;&nbsp;咨询  &nbsp;&nbsp;策划
                             </li>
                             <ul>
                             </ul>
@@ -23,8 +23,9 @@
         </div>
         <div class="downlist">
             <ul>
-                <li v-for="(item,index) in downList" @click="download(item)" :key="index" :style="{cursor : item.url?'pointer':'auto'}">
-                    <div :class="item.class">
+                <li v-for="(item,index) in downList" @click="download(item)"
+                    :key="index" :style="{cursor : item.url?'pointer':'auto'}">
+                    <div :class="item.class" :style="item.styleObject">
 
                     </div>
                     <p>
@@ -120,22 +121,34 @@
 //                        class : "logo"
 //                    },
                     {
-                        info : "中恒期权标准版安装包",
+                        info : "中恒50标准版安装包",
                         url : "http://47.93.42.162:8082/中恒期权标准版安装包.exe",
+                        imgUrl : "",
+                        styleObject : {},
                         class : "logo"
                     },
                     {
                         info : "",
                         url : "",
+                        imgUrl : "111",
+                        styleObject : {
+                            backgroundImage : 'url(http://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/安卓下载包.png)',
+                        },
                         class : "QR"
                     },
                     {
                         info : "",
                         url : "",
+                        imgUrl : "",
+                        styleObject : {
+                            backgroundImage : "url(http://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/苹果下载包.jpg)",
+                        },
                         class : "QR_ios"
                     },
                 ]
             }
+        },
+        created(){
         },
         methods : {
             download(item){

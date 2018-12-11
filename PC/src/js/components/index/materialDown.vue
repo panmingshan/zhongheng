@@ -6,13 +6,13 @@
                     <div class="qw">
                         <ul>
                             <li class="qw_1">
-                                中恒期权 BEST&amp;INVEST
+                                中恒50 BEST&amp;INVEST
                             </li>
                             <li class="qw_2">
                                 中 流 砥 柱 <span>日 升 月 恒</span>
                             </li>
                             <li class="qw_3">
-                                中恒期权管理   &nbsp;&nbsp;基金  &nbsp;&nbsp;股票  &nbsp;&nbsp;股权  &nbsp;&nbsp;咨询  &nbsp;&nbsp;策划
+                                中恒50管理   &nbsp;&nbsp;基金  &nbsp;&nbsp;股票  &nbsp;&nbsp;股权  &nbsp;&nbsp;咨询  &nbsp;&nbsp;策划
                             </li>
                             <ul>
                             </ul>
