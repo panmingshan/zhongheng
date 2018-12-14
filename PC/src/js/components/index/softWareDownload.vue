@@ -82,7 +82,7 @@
                     padding: 25px 10px;
                     float: left;
                     width: 23%;
-                    margin-right: 15%;
+                    margin: 0 13%;
                     box-shadow: 1px 1px 8px 3px #eee;
                     transition: all 0.3s;
                     &:hover{
@@ -128,23 +128,23 @@
                         class : "logo"
                     },
                     {
-                        info : "",
+                        info : "扫描二维码下载中恒50客户端",
                         url : "",
                         imgUrl : "111",
                         styleObject : {
-                            backgroundImage : 'url(http://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/安卓下载包.png)',
+                            backgroundImage : 'url(http://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/clientQR.png)',
                         },
                         class : "QR"
                     },
-                    {
-                        info : "",
-                        url : "",
-                        imgUrl : "",
-                        styleObject : {
-                            backgroundImage : "url(http://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/苹果下载包.jpg)",
-                        },
-                        class : "QR_ios"
-                    },
+//                    {
+//                        info : "",
+//                        url : "",
+//                        imgUrl : "",
+//                        styleObject : {
+//                            backgroundImage : "url(http://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/苹果下载包.jpg)",
+//                        },
+//                        class : "QR_ios"
+//                    },
                 ]
             }
         },
