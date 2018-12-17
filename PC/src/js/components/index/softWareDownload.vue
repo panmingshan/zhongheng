@@ -72,6 +72,9 @@
         .QR_ios{
             background-image: url("../../../assets/ios-01.jpg");
         }
+        .android{
+            background-image: url("../../../assets/android.png");
+        }
         .downlist{
             width: @width;
             margin: auto;
@@ -82,7 +85,7 @@
                     padding: 25px 10px;
                     float: left;
                     width: 23%;
-                    margin: 0 13%;
+                    margin: 0 6%;
                     box-shadow: 1px 1px 8px 3px #eee;
                     transition: all 0.3s;
                     &:hover{
@@ -136,15 +139,15 @@
                         },
                         class : "QR"
                     },
-//                    {
-//                        info : "",
-//                        url : "",
-//                        imgUrl : "",
-//                        styleObject : {
+                    {
+                        info : "扫描二维码下载中恒50安卓客户端",
+                        url : "",
+                        imgUrl : "",
+                        styleObject : {
 //                            backgroundImage : "url(http://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/苹果下载包.jpg)",
-//                        },
-//                        class : "QR_ios"
-//                    },
+                        },
+                        class : "android"
+                    },
                 ]
             }
         },
