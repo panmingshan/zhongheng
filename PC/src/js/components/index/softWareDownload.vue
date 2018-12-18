@@ -69,11 +69,11 @@
         .QR{
             background-image: url("../../../assets/app-01.png");
         }
-        .QR_ios{
-            background-image: url("../../../assets/ios-01.jpg");
+        .ios{
+            background-image: url("../../../assets/ios.jpg");
         }
         .android{
-            background-image: url("../../../assets/android.png");
+            background-image: url("../../../assets/android.jpg");
         }
         .downlist{
             width: @width;
@@ -118,11 +118,6 @@
         data (){
             return {
                 downList : [
-//                    {
-//                        info : "中恒期权MINI版安装包",
-//                        url : "http://47.93.42.162:8082/中恒期权MINI版安装包.exe",
-//                        class : "logo"
-//                    },
                     {
                         info : "中恒50标准版安装包",
                         url : "http://47.93.42.162:8082/中恒期权标准版安装包.exe",
@@ -131,13 +126,13 @@
                         class : "logo"
                     },
                     {
-                        info : "扫描二维码下载中恒50客户端",
+                        info : "扫描二维码下载中恒50ios客户端",
                         url : "",
                         imgUrl : "111",
                         styleObject : {
-                            backgroundImage : 'url(http://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/clientQR.png)',
+//                            backgroundImage : 'url(http://zhonghengqiquan.oss-cn-beijing.aliyuncs.com/clientQR.png)',
                         },
-                        class : "QR"
+                        class : "ios"
                     },
                     {
                         info : "扫描二维码下载中恒50安卓客户端",
